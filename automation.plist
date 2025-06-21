@@ -6,7 +6,7 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>com.jacksontwo.surepet</string>
+    <string>com.xyz.surepet</string>
 
     <key>ProgramArguments</key>
     <array>
